@@ -62,7 +62,7 @@ void initState() {
                     alignment: Alignment.bottomCenter,
                     builder: DotSwiperPaginationBuilder(
                       color: Colors.white,
-                      activeColor: Colors.red
+                      activeColor: Colors.green
                     )
                   ),
                   ),
